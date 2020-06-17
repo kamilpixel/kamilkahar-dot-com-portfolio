@@ -1,0 +1,57 @@
+<nav-bar></nav-bar>
+
+<div class="container-fluid portfolio-detail-top">
+    <div class="container">
+        <div class="row top-title">
+            <div class="col">
+                <h4>{{ $ctrl.projectData.name }}</h4>
+                <h5>{{ $ctrl.projectData.type }}</h5>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container portfolio-detail-bottom">
+    <div class="row">
+        <div class="col">
+            <table class="table">
+                <tbody>
+                    <tr>
+                        <th scope="row" class="table-border-none" style="width: 8%">Client</th>
+                        <td class="table-border-none">{{ $ctrl.projectData.client }}</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Technologies</th>
+                        <td>{{ $ctrl.projectData.technologies }}</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Role</th>
+                        <td>{{ $ctrl.projectData.role }}</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Info</th>
+                        <td><p ng-bind-html="$ctrl.projectData.info"></p></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-12 mb-3 text-center" ng-repeat="screenshot in $ctrl.projectData.screenshots">
+            <img ng-src="{{ screenshot }}" class="img-fluid" />
+        </div>
+    </div>
+
+    <div class="row mt-2">
+        <div class="col">
+            <div class="d-flex justify-content-center">
+                <!-- <button type="button" class="btn btn-outline-primary" back>Back to portfolio</button> -->
+                <back-button return-id="{{ $ctrl.projectData.id }}"></back-button>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<my-footer></my-footer>

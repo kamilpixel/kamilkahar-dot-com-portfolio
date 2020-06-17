@@ -1,0 +1,211 @@
+[
+    {
+        "id": "hrdf",
+        "name": "HRDF",
+        "type": "UI/UX Design",
+        "client": "HRDF Malaysia",
+        "technologies": "Figma",
+        "role": "Designer",
+        "info": "I was responsible to design a responsive login mockup for HRDF Malaysia",
+        "thumbnail": "img/portfolio/hrdf/thumbnail.jpg",
+        "screenshots": [
+            "img/portfolio/hrdf/screenshot1.jpg"
+        ]
+    },
+    {
+        "id": "rechrg",
+        "name": "RECHRG.",
+        "type": "UI/UX Design",
+        "client": "-",
+        "technologies": "Adobe XD",
+        "role": "Designer",
+        "info": "An experimental UI/UX responsive web design",
+        "thumbnail": "img/portfolio/rechrg/thumbnail.jpg",
+        "screenshots": [
+            "img/portfolio/rechrg/screenshot0.jpg"
+        ]
+    },
+    {
+        "id": "mida",
+        "name": "Malaysian Investment Development Authority",
+        "type": "UI/UX Design",
+        "client": "Malaysian Investment Development Authority",
+        "technologies": "Figma, Outsystems",
+        "role": "Designer & Developer",
+        "info": "I was responsible to design an interactive mockup using Figma for this project. The mockup converted into themes to be used in Outsystem platform.",
+        "thumbnail": "img/portfolio/mida/thumbnail.jpg",
+        "screenshots": [
+            "img/portfolio/mida/screenshot1.jpg"
+        ]
+    },
+    {
+        "id": "spbb",
+        "name": "Majlis Bandaraya Pulau Pinang ILCS",
+        "type": "UI/UX Design",
+        "client": "Majlis Bandaraya Pulau Pinang",
+        "technologies": "Figma, Bootstrap, HTML, CSS",
+        "role": "Designer & Developer",
+        "info": "I was responsible to design an interactive mockup using Figma for this project. I also develop UI style guide using Bootstrap as reference to other developers",
+        "thumbnail": "img/portfolio/spbb/thumbnail.jpg",
+        "screenshots": [
+            "img/portfolio/spbb/screenshot1.jpg"
+        ]
+    },
+    {
+        "id": "treva",
+        "name": "TREVA",
+        "type": "UI/UX Design",
+        "client": "-",
+        "technologies": "Adobe XD",
+        "role": "Designer",
+        "info": "An experimental UI/UX responsive web design",
+        "thumbnail": "img/portfolio/treva/thumbnail.jpg",
+        "screenshots": [
+            "img/portfolio/treva/screenshot1.jpg"
+        ]
+    },
+    {
+        "id": "kamilkahar",
+        "name": "kamilkahar.com",
+        "type": "Website Design & Development",
+        "client": "-",
+        "technologies": "HTML, CSS, Javascript, jQuery, AngularJS",
+        "role": "Designer & Developer",
+        "info": "This website design and develop by me to showcase my portfolio. It's also demonstrate front end technologies using AngularJS, jQuery and Bootstrap",
+        "thumbnail": "img/portfolio/kamilkahar/thumbnail.jpg",
+        "screenshots": [
+            "img/portfolio/kamilkahar/screenshot1.jpg"
+        ]
+    },
+    {
+        "id": "nestle-brand-experience",
+        "name": "Nestle Brand Experience",
+        "type": "Custom Development",
+        "client": "Nestle Dubai",
+        "technologies": "HTML, CSS, Javascript, PHP, AJAX",
+        "role": "Developer",
+        "info": "A passive information display for Nestle Dubai. The project involve social media API integration with Facebook, Instagram and Twitter. Client can customize what to display on screen based on Nestle profile ID or hashtag",
+        "thumbnail": "img/portfolio/nestle-brand-experience/thumbnail.jpg",
+        "screenshots": [
+            "img/portfolio/nestle-brand-experience/screenshot0.jpg",
+            "img/portfolio/nestle-brand-experience/screenshot1.jpg"
+        ]
+    }, 
+    { 
+            "id": "qf-student-center", 
+            "name": "QF Student Center",
+            "type": "Digital Signage Design",
+            "client": "Qatar Foundation Student Center",
+            "technologies": "Photoshop, Appspace",
+            "role": "Designer",
+            "info": "A digital signage application to display current and upcoming events",
+            "thumbnail":"img/portfolio/qf-student-center/thumbnail.jpg",
+            "screenshots": [
+                "img/portfolio/qf-student-center/screenshot0.jpg",
+                "img/portfolio/qf-student-center/screenshot1.jpg",
+                "img/portfolio/qf-student-center/screenshot2.jpg",
+                "img/portfolio/qf-student-center/screenshot3.jpg",
+                "img/portfolio/qf-student-center/screenshot4.jpg"
+        ]
+    },
+    {
+        "id": "nbcuniversal-tech",
+        "name": "NBCUniversal Tech",
+        "type": "Digital Signage Design",
+        "client": "NBCUniversal Technology",
+        "technologies": "Photoshop, Appspace",
+        "role": "Designer",
+        "info": "An interactive touch screen information display for NBCUniversal Technology",
+        "thumbnail": "img/portfolio/nbcuniversal-tech/thumbnail.jpg",
+        "screenshots": [
+            "img/portfolio/nbcuniversal-tech/screenshot0.jpg",
+            "img/portfolio/nbcuniversal-tech/screenshot1.jpg",
+            "img/portfolio/nbcuniversal-tech/screenshot2.jpg"
+        ]
+    },
+    {
+            "id": "vodafone-xone",
+            "name": "Vodafone Xone",
+            "type": "Custom Development",
+            "client": "Vodafone UK",
+            "technologies": "Flash Actionscript 2.0, XML, Appspace",
+            "role": "Developer",
+            "info": "A custom touch screen application to promote Vodafone xone",
+            "thumbnail": "img/portfolio/vodafone-xone/thumbnail.jpg",
+            "screenshots": [
+                "img/portfolio/vodafone-xone/screenshot0.jpg",
+                "img/portfolio/vodafone-xone/screenshot1.jpg",
+                "img/portfolio/vodafone-xone/screenshot2.jpg"
+        ]
+    },
+    {
+        "id": "cisco-partner-summit",
+        "name": "CISCO Partner Summit",
+        "type": "Digital Signage Design",
+        "client": "CISCO",
+        "technologies": "Photoshop, Illustrator, Appspace",
+        "role": "Designer",
+        "info": "A passive information display for CISCO Partner Summit event",
+        "thumbnail": "img/portfolio/cisco-partner-summit/thumbnail.jpg",
+        "screenshots": [
+            "img/portfolio/cisco-partner-summit/screenshot0.jpg",
+            "img/portfolio/cisco-partner-summit/screenshot1.jpg",
+            "img/portfolio/cisco-partner-summit/screenshot2.jpg"
+        ]
+    },
+    {
+        "id": "caylaperfume",
+        "name": "Caylaperfume",
+        "type": "Website Design & Development",
+        "client": "Cayla Perfume Distributor",
+        "technologies": "HTML, CSS, Javascript, jQuery, PHP, MySQL, Wordpress, Bootstrap",
+        "role": "Designer & Developer",
+        "info": "A website for Caylaperfume. A malaysian brand inspired perfume <br/><br/> Visit website at <a href=\"http://www.caylaperfume.com.my/\" target=\"_blank\" />www.caylaperfume.com.my</a> ",
+        "thumbnail": "img/portfolio/caylaperfume/thumbnail.jpg",
+        "screenshots": [
+            "img/portfolio/caylaperfume/screenshot0.jpg",
+            "img/portfolio/caylaperfume/screenshot1.jpg"
+        ]
+    },
+    {
+        "id": "mercumaya",
+        "name": "mercumaya.net",
+        "type": "Website Design",
+        "client": "mercumaya.net",
+        "technologies": "HTML, CSS, Photoshop, Flash",
+        "role": "Designer",
+        "info": "A website design for Mercumaya.net, a malaysia web hosting company",
+        "thumbnail": "img/portfolio/mercumaya/thumbnail.jpg",
+        "screenshots": [
+            "img/portfolio/mercumaya/screenshot0.jpg"
+        ]
+    },
+    {
+        "id": "dof-microfilm",
+        "name": "DOF Microfilm",
+        "type": "Website Design & Development",
+        "client": "DOF Micrographic System (M) Sdn Bhd",
+        "technologies": "HTML, CSS, Javascript, PHP",
+        "role": "Designer & Developer",
+        "info": "A website for DOF Microfilm. DOF Microfilm is a microfilming service by Dof Micrographic System (M) Sendirian Berhad (DMSSB) <br/><br/> Visit website at <a href=\"http://www.dofmicrofilm.com.my/\" target=\"_blank\" />www.dofmicrofilm.com.my</a> ",
+        "thumbnail": "img/portfolio/dof-microfilm/thumbnail.jpg",
+        "screenshots": [
+            "img/portfolio/dof-microfilm/screenshot0.jpg",
+            "img/portfolio/dof-microfilm/screenshot1.jpg"
+        ]
+    },
+    {
+        "id": "merdeka",
+        "name": "Merdeka",
+        "type": "Graphic Design",
+        "client": "-",
+        "technologies": "Photoshop",
+        "role": "Designer",
+        "info": "An experimental design of Merdeka poster",
+        "thumbnail": "img/portfolio/merdeka/thumbnail.jpg",
+        "screenshots": [
+            "img/portfolio/merdeka/screenshot0.jpg"
+        ]
+    }
+
+]
