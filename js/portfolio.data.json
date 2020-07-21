@@ -52,6 +52,58 @@
         ]
     },
     {
+        "id": "radiant1",
+        "name": "Radiant 1",
+        "type": "UI/UX Design",
+        "client": "Radiant 1",
+        "technologies": "Figma, Photoshop",
+        "role": "Designer (Freelance)",
+        "info": "A landing page responsive UI/UX design for Radiant 1 corporate site",
+        "thumbnail": "img/portfolio/radiant1/thumbnail.jpg",
+        "screenshots": [
+            "img/portfolio/radiant1/screenshot0.jpg"
+        ]
+    },
+    {
+        "id": "sensiblewomen",
+        "name": "Sensible Women Initiative",
+        "type": "UI/UX Design",
+        "client": "Sensible Women Initiative",
+        "technologies": "Figma, Photoshop",
+        "role": "Designer (Freelance)",
+        "info": "A landing page responsive UI/UX design for Sensible Women Initiative website",
+        "thumbnail": "img/portfolio/sensiblewomen/thumbnail.jpg",
+        "screenshots": [
+            "img/portfolio/sensiblewomen/screenshot0.jpg"
+        ]
+    },
+    {
+        "id": "dashboard",
+        "name": "Dashboard",
+        "type": "UI/UX Design",
+        "client": "Freelance",
+        "technologies": "Figma",
+        "role": "Designer",
+        "info": "A freelance work of dashboard landing page UI/UX design",
+        "thumbnail": "img/portfolio/dashboard/thumbnail.jpg",
+        "screenshots": [
+            "img/portfolio/dashboard/screenshot0.jpg"
+        ]
+    },
+    {
+        "id": "cdh",
+        "name": "Clinical Practice Guidelines",
+        "type": "UI/UX Design",
+        "client": "The Canadian Collaborative",
+        "technologies": "Figma, Photoshop",
+        "role": "Designer (Freelance)",
+        "info": "A landing page responsive UI/UX design for Clinical Practice Guidelines",
+        "thumbnail": "img/portfolio/cdh/thumbnail.jpg",
+        "screenshots": [
+            "img/portfolio/cdh/screenshot0.jpg"
+        ]
+    },
+    {
         "id": "treva",
         "name": "TREVA",
         "type": "UI/UX Design",
@@ -192,19 +244,6 @@
         "screenshots": [
             "img/portfolio/dof-microfilm/screenshot0.jpg",
             "img/portfolio/dof-microfilm/screenshot1.jpg"
-        ]
-    },
-    {
-        "id": "merdeka",
-        "name": "Merdeka",
-        "type": "Graphic Design",
-        "client": "-",
-        "technologies": "Photoshop",
-        "role": "Designer",
-        "info": "An experimental design of Merdeka poster",
-        "thumbnail": "img/portfolio/merdeka/thumbnail.jpg",
-        "screenshots": [
-            "img/portfolio/merdeka/screenshot0.jpg"
         ]
     }
 

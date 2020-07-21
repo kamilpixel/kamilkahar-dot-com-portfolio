@@ -16,7 +16,7 @@ kamilApp.component('navBar', {
                         '<a class="nav-link" ng-href="#!portfolio">Portfolio</a>' +
                     '</li>'+
                     '<li class="nav-item">' +
-                        '<a class="nav-link" ng-href="#!profile">Profile</a>'+
+                        '<a class="nav-link" ng-href="#!profile?v2">Profile</a>'+
                     '</li>' +
                 '</ul>'+
             '</div>' +
